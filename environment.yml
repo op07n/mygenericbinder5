@@ -23,5 +23,5 @@ dependencies:
     - scipy
     - matplotlib
     - pandas
-    - Pillow
+    - Pillow==6.2.1
 
