@@ -14,6 +14,7 @@ dependencies:
     - nbserverproxy  
     - nbgitpuller
     - torch
+    - fastai
     - datetime
     - random2
     - bokeh
