@@ -1,0 +1,27 @@
+name: mygenericbinder2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel
+  - python=3.7
+  - torchvision
+  - pip
+  - pip:
+    - pathtools==0.1.2
+    - streamlit
+    - jupyter-server-proxy
+    - nbserverproxy  
+    - nbgitpuller
+    - torch
+    - datetime
+    - random2
+    - bokeh
+    - markdown
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - Pillow
+    - fastai
+    - nbconvert
